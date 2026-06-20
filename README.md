@@ -53,7 +53,7 @@ the predictable FCF that lenders actually underwrite against.
 | Tranche | Rate | Source |
 |---|---|---|
 | Term Loan B | SOFR (4.3%) + 350bps | Baker McKenzie LevFin Annual 2025 |
-| Senior Secured Notes | 8.75% fixed | AFME HY & LL Report Q2 2025 |
+| Senior Secured Notes | 8.75% fixed | AFME HY & LL Report Q2 2025 |    
 | High Yield Notes | 9.50% fixed | AFME HY & LL Report Q2 2025 |
 | Mezzanine | 13.00% fixed | Standard market pricing |
 
